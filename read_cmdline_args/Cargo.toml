@@ -1,0 +1,6 @@
+[package]
+name = "read_cmdline_args"
+version = "0.1.0"
+authors = ["Amit Saha <asaha@freelancer.com>"]
+
+[dependencies]
