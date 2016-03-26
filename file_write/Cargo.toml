@@ -1,0 +1,6 @@
+[package]
+name = "file_write"
+version = "0.1.0"
+authors = ["Amit Saha <amitsaha.in@gmail.com>"]
+
+[dependencies]
