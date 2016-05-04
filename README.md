@@ -2,9 +2,9 @@
 
 Here you will find the source codes for the article in Linux Voice, Issue 27.
 
-### Resources
+### Links
 
-The following links should be useful as you look to learn more.
+The following links should be useful as you look to learn more. 
 
 Resources from Rust's own documentation:
 
@@ -27,3 +27,7 @@ Resources from elsewhere:
 Podcasts:
 
 - [New Rustacean](http://www.newrustacean.com/)
+
+Interesting projects:
+
+- [Redox](http://www.redox-os.org/) is a Unix-like Operating System written in Rust]
