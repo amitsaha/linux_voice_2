@@ -18,6 +18,7 @@ Resources from Rust's own documentation:
 
 Resources from elsewhere:
 
+- [Rust + nix = easier unix systems programming <3](http://kamalmarhubi.com/blog/2016/04/13/rust-nix-easier-unix-systems-programming-3/)
 - [Rust by example](http://rustbyexample.com/index.html)
 - [Rust for C/C++ programmers](https://github.com/nrc/r4cppp)
 - [Linux coreutils written in Rust](https://github.com/uutils/coreutils)
