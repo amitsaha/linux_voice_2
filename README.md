@@ -8,7 +8,7 @@ The following links should be useful as you look to learn more.
 
 Resources from Rust's own documentation:
 
-- [The Rust programming language book](https://doc.rustlang.org/book)
+- [The Rust programming language book](https://doc.rust-lang.org/book)
 - [Crates and Modules](https://doc.rust-lang.org/book/crates-and-modules.html)
 - [Cargo](http://doc.crates.io/guide.html)
 - [Primitive types in Rust](https://doc.rust-lang.org/book/primitive-types.html)
